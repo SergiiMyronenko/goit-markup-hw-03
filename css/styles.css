@@ -4,7 +4,7 @@
     --primary-accent-color:#2196F3;
     --secondary-accent-color:rgba(255,255,255,0.6);
     --tertiary-accent-color:#D9D9D9;
-    --primary-background-color:#E5E5E5;
+    --primary-background-color:#FFFFFF;
     --header-background-color:#FFFFFF;
     --footer-background-color:#2F303A;
     --portfolio-button-background-color:#F5F4FA;
@@ -305,6 +305,7 @@ text-align: center;
 
 .our-team-card-legend {
     padding-top:30px;
+    padding-bottom:30px;
 }
 
 .our-team-list-paragraph {
@@ -343,7 +344,7 @@ text-decoration: none;
 }
 
 .address-email{
-    color: var(--tertiary-accent-color);
+    color: var(--secondary-accent-color);
 text-decoration: none;
 }
 
